@@ -24,6 +24,17 @@ Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
 - M3 Screws (todo)
 - 2x - M4 grub screw (M4 x 8mm)
 
+## Print settings
+Most parts are printed at 10% gyroid or cross hatch, with three walls\
+Otherwise parts are printed at four walls and 20% infill.
+
+See instructions for more information.
+
+## Licence
+Creative Commons, Attribution-NonCommercial-ShareAlike 4.0 International \
+CC BY-NC-SA 4.0 \
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+
 ## Attribution
 - Moose Deuce Double Stack Magazines - Misplaced Moose \
 	https://www.printables.com/model/1402880-double-stack-half-dart-nerf-magazines-aka-moose-du
@@ -32,10 +43,7 @@ Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
 
 ## These files are provided free of charge
 However if you like these files then please consider supporting me. \
-You can donate via my BuyMeACoffee, this helps pay for materials I use while prototyping. Thank you.
+Supporting me helps pay for materials I use while prototyping. Thank you. \
+You can donate via my BuyMeACoffee, 
 
 
-## Licence
-Creative Commons, Attribution-NonCommercial-ShareAlike 4.0 International \
-CC BY-NC-SA 4.0 \
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
