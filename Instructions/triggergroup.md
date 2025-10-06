@@ -23,7 +23,7 @@
 - 1x M4 x 16 Socket Head bolt
 - 1x M3 x 20 Socket Head bolt
 - 2x M4 x 20 Socket Head bolt
-
+- 2x M4 x 10 Socket Head bolt
 
 Build the trigger mechanism, first take the trigger and use a 3mm drill bit and carefully drill the pivot hole, this is printed undersize, and then drilled out to ensure a more exact fit.
 
@@ -54,3 +54,16 @@ Place a 7x20mm spring inside the box cut out in the Transfer bar. This spring fi
 As soon as the Trigger Assembly is on the detent, then make sure the two M4x20 mm bolts are put into place. Then fit the Sear Spring (7x20mm spring) into the Sear at the rear.
 
 <img src="../Images/TriggerGroup/TriggerAssembly3.PNG" width="800">
+
+Fit the Grip Frame and Spring Holder into the Fire Group Frame Right.
+
+<img src="../Images/TriggerGroup/TriggerAssembly4.PNG" width="800">
+
+Finally clamp the Fire Group Frame Left and Right together.
+
+<img src="../Images/TriggerGroup/TriggerAssembly5.PNG" width="800">
+ 
+Fit the Grips (use the locator pins to stop them from rotating) and use an M4x10mm screw to attach them. (do not overtighten these screws)
+Optional : Use low Profile screws, or dome screws for improved comfort.
+
+<img src="../Images/TriggerGroup/TriggerAssemblyFinished.PNG" width="800">
