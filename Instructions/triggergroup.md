@@ -1,4 +1,4 @@
-#Trigger Group
+# Trigger Group
 
 <img src="../Images/TriggerGroup/TriggerGroup.PNG" width="800">
 
