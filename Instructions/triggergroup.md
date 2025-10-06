@@ -1,11 +1,13 @@
-# Trigger Group
+# Aseembling the Trigger Group
 
 <img src="../Images/TriggerGroup/TriggerGroup.PNG" width="800">
 
-## Suggested Print Orientations
+## Recommended Print Orientations
+### 3 Walls , 10% infill
 <img src="../Images/TriggerGroup/TG FireGroupFrameLeft.PNG" width="800">
 <img src="../Images/TriggerGroup/TG FireGroupFrameRight.PNG" width="800">
 <img src="../Images/TriggerGroup/TG Grips.PNG" width="800">
+### 4 Walls , 15% infill
 <img src="../Images/TriggerGroup/TG Other Parts.PNG" width="800">
 
 ## Tools
