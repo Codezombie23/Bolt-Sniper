@@ -27,3 +27,12 @@ Build the trigger mechanism, first take the trigger and use a 3mm drill bit and 
 Next take the Trigger, Transfer Bar and the Sear, use an M4x12 to connect the trigger to the transfer bar, and an M4x16 the transfer bar to the Sear as shown below.
 
 <img src="../Images/TriggerGroup/Trigger Assembly.PNG" width="800">
+
+Next install the Safety Switch into the Fire Group Frame Left. Take the Safety switch and slide it into the frame, in the down / safe position.
+
+<img src="../Images/TriggerGroup/Safety1.PNG" width="800">
+
+Flip the frame over and fit the Safety Cam to the Safety switch exactly as shown below. This is a bit fiddly, but the parts will slide together.
+Then screw an M3x20 into the Safety Switch and through into the Safety Cam.
+
+<img src="../Images/TriggerGroup/Safety2.PNG" width="800">
