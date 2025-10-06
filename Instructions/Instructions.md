@@ -4,4 +4,4 @@
 
 ## Parts
 
-<img src="../Images/TriggerGroup/TriggerAssemblyFinished.PNG" width="250"> [Building the Trigger Group](triggergroup.md).
+<img src="../Images/TriggerGroup/TriggerAssemblyFinished.PNG" width="50"> [Building the Trigger Group](triggergroup.md).
