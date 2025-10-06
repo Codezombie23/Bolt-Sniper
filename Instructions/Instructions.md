@@ -1,3 +1,3 @@
 # Assembly Guide
 
-<img src="Images/exploded.png" width="800">
+<img src="Images/Exploded.png" width="800">
