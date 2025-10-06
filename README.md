@@ -15,7 +15,7 @@ Ignis is a Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper 
 
 
 # Assembly Instructions
-See [Assembly guide (incomplete)](Instructions/Instructions.md).
+-- [Assembly guide (incomplete)](Instructions/Instructions.md) --
 
 
 ## BOM (WIP)
