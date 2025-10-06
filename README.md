@@ -9,7 +9,7 @@ Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
 
 
 # Assembly Instructions
-See [Assembly guide (incomplete)](instructions/Instructions.md).
+See [Assembly guide (incomplete)](Instructions/Instructions.md).
 
 
 ## BOM (WIP)
