@@ -7,6 +7,11 @@ Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
 <img src="Images/preview.png" width="800">
 
 
+
+# Assembly Instructions
+See [Assembly guide (incomplete)](instructions/instructions.md).
+
+
 ## BOM (WIP)
 - 1x - D12580 Spring - Springmasters \
 	https://www.springmasters.com/shop/d12580/ 
@@ -30,18 +35,18 @@ Otherwise parts are printed at four walls and 20% infill.
 
 See instructions for more information.
 
-## Licence
+# Licence
 Creative Commons, Attribution-NonCommercial-ShareAlike 4.0 International \
 CC BY-NC-SA 4.0 \
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
-## Attribution
+# Attribution
 - Moose Deuce Double Stack Magazines - Misplaced Moose \
 	https://www.printables.com/model/1402880-double-stack-half-dart-nerf-magazines-aka-moose-du
 - Cynthia - Barrel Nut and Piston front - Sillybuts \
 	https://github.com/Sillybutts/Cynthia?tab=readme-ov-file
 
-## These files are provided free of charge
+# These files are provided free of charge
 However if you like these files then please consider supporting me. \
 Supporting me helps pay for materials I use while prototyping. Thank you. \
 You can donate via my BuyMeACoffee, 
