@@ -1,11 +1,17 @@
-# Bolt Sniper
+# 'Ignis' Bolt Action Sniper Blaster
 
 ## Description
 
-Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
+Ignis is a Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
 
 <img src="Images/preview.png" width="800">
 
+### Features
+- 110 > 130 adjustable FPS (WIP)
+- 20 round capacity
+- 450mm long barrel
+- Uses Misplaced Moose's Moose Deuce double stacked mags.
+- Optional adjustable optics rail
 
 
 # Assembly Instructions
@@ -49,6 +55,6 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 # These files are provided free of charge
 However if you like these files then please consider supporting me. \
 Supporting me helps pay for materials I use while prototyping. Thank you. \
-You can donate via my BuyMeACoffee, 
+You can donate via my BuyMeACoffee (Link Not available as not fully released)
 
 
