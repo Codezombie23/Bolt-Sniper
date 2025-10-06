@@ -32,13 +32,10 @@ Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
 
 ## These files are provided free of charge
 However if you like these files then please consider supporting me. \
-
 You can donate via my BuyMeACoffee, this helps pay for materials I use while prototyping. Thank you.
 
 
 ## Licence
 Creative Commons, Attribution-NonCommercial-ShareAlike 4.0 International \
-
 CC BY-NC-SA 4.0 \
-
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
