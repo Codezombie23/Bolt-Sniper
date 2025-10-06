@@ -1,4 +1,4 @@
-# Aseembling the Trigger Group
+# Assembling the Trigger Group
 
 <img src="../Images/TriggerGroup/TriggerGroup.PNG" width="800">
 
