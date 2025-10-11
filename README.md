@@ -2,7 +2,8 @@
 
 ## Description
 
-Ignis is a Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle.
+Ignis is a Bolt Action Sniper rifle inspired by the Warhammer 40k Guards Sniper rifle. It uses a double stacked mag, designed by Misplaced Moose, to hold 20 rounds in a mag no longer than a normal 10 round Talon style mag.
+
 
 <img src="Images/preview.png" width="800">
 
@@ -30,8 +31,8 @@ Start Here\
     https://www.metals4u.co.uk/materials/aluminium/aluminium-tube/986-p \
     https://www.aluminium-online.co.uk/product/1-1-4-x-16swg-aluminium-round-tube/
 	
-- 3x - O-Ring -  2.62mm Section 29.82mm Bore NITRILE 70 Shore Rubber O-Rings - Simply bearings
-- 2x - O-Ring - 	1.5mm Section 10mm Bore NITRILE 70 Shore Rubber O-Rings
+- 3x - O-Ring - 2.62mm Section 29.82mm Bore NITRILE 70 Shore Rubber O-Rings - Simply bearings
+- 2x - O-Ring - 1.5mm Section 10mm Bore NITRILE 70 Shore Rubber O-Rings
 - M4 Screws (todo)
 - M3 Screws (todo)
 - 2x - M4 grub screw (M4 x 8mm)
